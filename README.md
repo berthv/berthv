@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @berthv
-- 👀 I’m interested in everything about teh ArcGIS platform, python, arcpy, javascript
+- 👀 I’m interested in everything about the ArcGIS platform, python, arcpy, javascript
 
 
 <!---
